@@ -5,4 +5,4 @@ public class Main {
         UserDataManager userData  =   new UserDataManager();
         System.out.println(userData.getUserInfoFromManager());
     }
-}
+} 
